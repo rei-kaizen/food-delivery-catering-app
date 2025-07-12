@@ -64,7 +64,7 @@ export default function Hero() {
                 <div className="text-sm text-slate-black/70">Customer Rating</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-clay-amber">3+</div>
+                <div className="text-2xl font-bold text-clay-amber">5+</div>
                 <div className="text-sm text-slate-black/70">Years Serving</div>
               </div>
             </div>
