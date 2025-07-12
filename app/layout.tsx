@@ -18,7 +18,9 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_PH",
   },
-    generator: 'v0.dev'
+    icons: {
+    icon: "/claydens-logo.png",
+  },
 }
 
 export default function RootLayout({
