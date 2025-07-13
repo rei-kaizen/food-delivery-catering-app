@@ -12,12 +12,6 @@ export const metadata: Metadata = {
   description:
     "Delicious Filipino food delivery and catering services in Metro Manila. Fresh ingredients, timely delivery, and authentic flavors for your special occasions.",
   keywords: "Filipino food, food delivery, catering, Manila, Philippines, rice meals, pancit, adobo",
-  openGraph: {
-    title: "Clayden's Food Hub - Authentic Filipino Cuisine & Catering",
-    description: "Delicious Filipino food delivery and catering services in Metro Manila",
-    type: "website",
-    locale: "en_PH",
-  },
     icons: {
     icon: "/claydens-logo.png",
   },
